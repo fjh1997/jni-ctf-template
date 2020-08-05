@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">jni 逆向</string>
+    <string name="confirm">确定</string>
+    <string name="password">请输入密码</string>
+    <string name="zstuctf">flag格式为zstuctf{}</string>
+</resources>
